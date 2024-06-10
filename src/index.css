@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.layout {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.content {
+    min-height: 400px;
+}
